@@ -5,7 +5,7 @@
     <project path="device/xiaomi/mt6895-common" name="xaga-axionos/android_device_xiaomi_mt6895-common" remote="gh" revision="16"/>
     <project path="device/mediatek/sepolicy_vndr" name="XagaForge/android_device_mediatek_sepolicy_vndr" remote="gh" revision="16"/>
     <!-- Vendor Trees -->
-    <project path="vendor/xiaomi/xaga" name="priiii08918/android_vendor_xiaomi_xaga" remote="gh" revision="16"/>
+    <project path="vendor/xiaomi/xaga" name="priiii08918/android_vendor_xiaomi_xaga" remote="gl" revision="16"/>
     <project path="vendor/xiaomi/mt6895-common" name="XagaForge/android_vendor_xiaomi_mt6895-common" remote="gh" revision="16"/>
     <project path="vendor/mediatek/ims" name="XagaForge/android_vendor_mediatek_ims" remote="gh" revision="16"/>
     <project path="vendor/firmware" name="XagaForge/android_vendor_firmware" remote="gh" revision="16"/>
