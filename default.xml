@@ -14,7 +14,7 @@
     <project path="hardware/mediatek" name="XagaForge/android_hardware_mediatek" remote="gh" revision="16"/>
     <project path="hardware/xiaomi" name="XagaForge/android_hardware_xiaomi" remote="gh" revision="16"/>
     <!-- Kernel -->
-    <project path="kernel/xiaomi/mt6895" name="XagaForge/android_kernel_xiaomi_mt6895" remote="gh" revision="16"/>
+    <project path="kernel/xiaomi/mt6895" name="xaga-axionos/android_kernel_xiaomi_mt6895" remote="gh" revision="16"/>
     <!-- Remotes -->
     <remote name="gh" fetch="https://github.com/" />
     <remote name="gl" fetch="https://gitlab.com/" />
