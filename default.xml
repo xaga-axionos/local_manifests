@@ -16,6 +16,8 @@
     <project path="kernel/xiaomi/mt6895" name="ESK-Project/android_kernel_xiaomi_mt6895" remote="gh" revision="16"/>
     <!-- Patches -->
     <project path="device_xiaomi_xaga-patch" name="xaga-crdroid/device_xiaomi_xaga-patch" remote="gh" revision="16" />
+    <!-- GMS -->
+    <project path="vendor/pixel/gms" name="ChrisCatto/proprietary_vendor_pixel_gms" remote="gl" revision="16"/>
     <!-- Remotes -->
     <remote name="gh" fetch="https://github.com/" />
     <remote name="gl" fetch="https://gitlab.com/" />
