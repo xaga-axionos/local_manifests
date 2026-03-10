@@ -11,9 +11,9 @@
     <!-- Hardware -->
     <project path="hardware/xiaomi" name="XagaForge/android_hardware_xiaomi" remote="gh" revision="16.2"/>
     <!-- Kernel -->
-    <project path="kernel/xiaomi/mt6895" name="ESK-Project/android_kernel_xiaomi_mt6895" remote="gh" revision="16"/>
+    <project path="kernel/xiaomi/mt6895" name="ESK-Project/android_kernel_xiaomi_mt6895" remote="gh" revision="16.2"/>
     <!-- Patches -->
-    <project path="device_xiaomi_xaga-patch" name="esk-xaga/device_xiaomi_xaga-patch" remote="gh" revision="16"/>
+    <project path="device_xiaomi_xaga-patch" name="esk-xaga/device_xiaomi_xaga-patch" remote="gh" revision="16.2"/>
     <!-- External -->
     <project path="packages/apps/ViPER4AndroidFX" name="TogoFire/packages_apps_ViPER4AndroidFX" remote="gh" revision="v4a" />
     <project path="vendor/bcr" name="esk-xaga/vendor_bcr" remote="gh" revision="16.2" />
