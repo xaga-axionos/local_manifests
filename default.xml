@@ -17,6 +17,7 @@
     <!-- External -->
     <project path="packages/apps/ViPER4AndroidFX" name="TogoFire/packages_apps_ViPER4AndroidFX" remote="gh" revision="v4a" />
     <project path="vendor/bcr" name="esk-xaga/vendor_bcr" remote="gh" revision="16.2" />
+    <project path="hardware/miku/compat" name="LineageOS/android_hardware_lineage_compat" remote="gh" revision="lineage-23.2" />
     <!-- Remotes -->
     <remote name="gh" fetch="https://github.com/" />
     <remote name="gl" fetch="https://gitlab.com/" />
